@@ -3,7 +3,7 @@ About ppft
 
 Home: http://trac.mystic.cacr.caltech.edu/project/pathos/wiki.html
 
-Package license: BSD 3-Clause
+Package license: BSD-3-Clause
 
 Feedstock license: BSD 3-Clause
 
@@ -14,9 +14,8 @@ Summary: distributed and parallel python
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/ppft-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/ppft-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/ppft-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/ppft-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/ppft-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/ppft-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/ppft-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/ppft-feedstock)
 
 Current release info
 ====================
