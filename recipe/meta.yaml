@@ -16,7 +16,7 @@ build:
 requirements:
   build:
     - python
-    - setuptools
+    - pip
     - six >=1.7.3
   run:
     - python
