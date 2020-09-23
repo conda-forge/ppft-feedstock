@@ -11,10 +11,10 @@ source:
 
 build:
   number: 0
-  script: '{{ PYTHON }} -m pip install . --no-deps --ignore-installed -vv '
+  script: "{{ PYTHON }} -m pip install . -vv"
 
 requirements:
-  build:
+  host:
     - python
     - pip
     - six >=1.7.3
@@ -28,10 +28,11 @@ test:
 
 about:
   home: http://trac.mystic.cacr.caltech.edu/project/pathos/wiki.html
-  license: BSD 3-Clause
+  license: BSD-3-Clause
   license_file: COPYING
   summary: distributed and parallel python
 
 extra:
   recipe-maintainers:
     - jschueller
+    - synapticarbors
