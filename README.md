@@ -5,11 +5,9 @@ Home: http://trac.mystic.cacr.caltech.edu/project/pathos/wiki.html
 
 Package license: BSD-3-Clause
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/ppft-feedstock/blob/master/LICENSE.txt)
 
 Summary: distributed and parallel python
-
-
 
 Current build status
 ====================
