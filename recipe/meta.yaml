@@ -28,7 +28,7 @@ test:
     - ppft
 
 about:
-  home: http://trac.mystic.cacr.caltech.edu/project/pathos/wiki.html
+  home: https://github.com/uqfoundation/ppft
   license: BSD-3-Clause
   license_file: COPYING
   summary: distributed and parallel python
