@@ -1,7 +1,7 @@
 About ppft
 ==========
 
-Home: http://trac.mystic.cacr.caltech.edu/project/pathos/wiki.html
+Home: https://github.com/uqfoundation/ppft
 
 Package license: BSD-3-Clause
 
