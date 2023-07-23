@@ -1,11 +1,11 @@
-About ppft
-==========
+About ppft-feedstock
+====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/ppft-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/uqfoundation/ppft
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/ppft-feedstock/blob/main/LICENSE.txt)
 
 Summary: distributed and parallel python
 
