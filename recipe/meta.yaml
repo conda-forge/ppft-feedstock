@@ -18,14 +18,18 @@ requirements:
   host:
     - python {{ python_min }}
     - pip
+    - setuptools >=42
   run:
     - python >={{ python_min }}
 
 test:
   requires:
     - python {{ python_min }}
+    - pip
   imports:
     - ppft
+  commands:
+    - pip check
 
 about:
   home: https://github.com/uqfoundation/ppft
