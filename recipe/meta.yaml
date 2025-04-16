@@ -1,5 +1,5 @@
 {% set name = "ppft" %}
-{% set version = "1.7.6.9" %}
+{% set version = "1.7.7" %}
 
 package:
   name: {{ name|lower }}
@@ -7,10 +7,10 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 73161c67474ea9d81d04bcdad166d399cff3f084d5d2dc21ebdd46c075bbc265
+  sha256: f3f77448cfe24c2b8d2296b6d8732280b25041a3f3e1f551856c6451d3e01b96
 
 build:
-  number: 1
+  number: 0
   noarch: python
   script: {{ PYTHON }} -m pip install . -vv
 
